@@ -1,4 +1,4 @@
-<h1 align="center">AMIT CRYPTO WORLD</h1>
+<h1 align="center">AMOL CRYPTO WORLD</h1>
 
 *----------------------------------
 This is Webiste is designed to get Overview of the crypto Coins In the market .
@@ -7,7 +7,7 @@ This is Webiste is designed to get Overview of the crypto Coins In the market .
 It is crypto dashboard built using **ReactJS **, **Tailwind CSS**, **React-redux**, **Redux-thunk**, and **Chart.js **. 
 The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
 
-### Go Live: [Cryptocurrency Dashboard]( https://almadashboard.netlify.app/ )
+### Go Live: [Cryptocurrency Dashboard](  )
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
@@ -30,7 +30,3 @@ Install the following prerequisites:
 After Installing the nodemodules
 
 Runs http://localhost:3000 to view it in your browser.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
