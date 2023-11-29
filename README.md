@@ -7,7 +7,7 @@ This is Webiste is designed to get Overview of the crypto Coins In the market .
 It is crypto dashboard built using **ReactJS **, **Tailwind CSS**, **React-redux**, **Redux-thunk**, and **Chart.js **. 
 The app uses the **CoinGecko API** to get cryptocurrency data such as live prices, trading volume, exchange volumes, historical data, crypto categories, images, and more.
 
-### Go Live: [Cryptocurrency Dashboard](  )
+### Go Live: [Cryptocurrency Dashboard]( https://cryptodashboard-almabetter-8cfddca407b8.herokuapp.com/ )
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
