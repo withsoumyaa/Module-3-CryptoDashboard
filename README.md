@@ -1,4 +1,4 @@
-<h1 align="center">Soumya CRYPTO WORLD</h1>
+<h1 align="center">SOUMYA CRYPTO WORLD</h1>
 
 *----------------------------------
 This is Webiste is designed to get Overview of the crypto Coins In the market .
