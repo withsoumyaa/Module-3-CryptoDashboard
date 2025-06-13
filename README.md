@@ -29,4 +29,5 @@ Install the following prerequisites:
 
 After Installing the nodemodules
 
-Runs http://localhost:3000 to view it in your browser.
+Runs https://module-3-crypto-dashboard.vercel.app/
+ to view it in your browser.
